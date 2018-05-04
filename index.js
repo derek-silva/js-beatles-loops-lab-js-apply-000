@@ -16,5 +16,6 @@ return emptyArray
 }
 
 function johnLennonFacts(Facts){
-  
+  var factsArray[]
+  while (var x = 0; i < facts.lenth; i++)
 }
