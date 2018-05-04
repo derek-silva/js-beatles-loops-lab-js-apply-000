@@ -3,6 +3,7 @@ var musicians = ["John Lennon", "Paul McCartney", "George Harrison", "Ringo Star
 
 function theBeatlesPlay(musicians, instruments) {
   var emptyArray = []
-  for (var i = 0; i < 5; i++) { 
-    text += cars[i] + "<br>";
+  for (var i = 0; i < musicians.length; i++) { 
+  emptyArray.push(musicians[0] + 'plays' + instruments[0])
+   
 }}
