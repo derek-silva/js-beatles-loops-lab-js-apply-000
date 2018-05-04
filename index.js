@@ -15,4 +15,6 @@ return emptyArray
   
 }
 
-function johnLennonFacts(Facts)
+function johnLennonFacts(Facts){
+  
+}
