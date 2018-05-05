@@ -11,7 +11,7 @@ function theBeatlesPlay(musicians, instruments) {
   emptyArray.push(musicians[i] + ' plays ' + instruments[i])
   
 }  
-return emptyArray  
+  return emptyArray  
 }
 
 function johnLennonFacts(Facts){
