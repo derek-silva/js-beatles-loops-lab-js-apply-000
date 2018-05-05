@@ -6,17 +6,17 @@ const facts = ["He was the last Beatle to learn to drive",
   "He hated the sound of his own voice"];
 
 function theBeatlesPlay(musicians, instruments) {
-  var emptyArray = []
+  var emptyArray = [];
   for (var i = 0; i < musicians.length; i++) { 
-  emptyArray.push(musicians[i] + ' plays ' + instruments[i])
+  emptyArray.push(musicians[i] + ' plays ' + instruments[i]);
   
 }  
-  return emptyArray  
+  return emptyArray;  
 }
 
 function johnLennonFacts(facts){
-  var factsArray = []
-  
+  var factsArray = [];
+  i = 0;
 }
   return factsArray
 }
