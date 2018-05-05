@@ -24,11 +24,16 @@ function johnLennonFacts(facts){
   return factsArray;
 }
 
-function iLoveTheBeatles(number){
-  var loveArray = [];
-  do(loveArray.push(`I love the Beatles!`));
-  number ++; 
-  while(number < 15);
-}
-  return loveArray;
-}
+
+
+function iLoveTheBeatles(number) { 
+  var newArray = []; 
+  do {
+   newArray.push(`I love the Beatles!`); 
+   number++; 
+ } 
+  while (number < 15); 
+  return newArray;  
+  
+} 
+
