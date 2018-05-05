@@ -17,8 +17,8 @@ return emptyArray
 
 function johnLennonFacts(Facts){
   var factsArray = []
-  while (var x = 0; x < facts.lenth; x++){
-    factsArray.push(facts[x] + '!!!')
+  while (var i = 0; i < facts.lenth; i++){
+    factsArray.push(facts[i] + '!!!')
 }
   return factsArray
 }
