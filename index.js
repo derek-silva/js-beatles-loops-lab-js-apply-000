@@ -24,10 +24,10 @@ function johnLennonFacts(facts){
   return factsArray;
 }
 
-function iLoveTheBeatles(number){
+function iLoveTheBeatles(Number){
   var loveArray = [];
   do(loveArray.push(`I love the Beatles!`));
-  number ++; 
+  Number ++; 
   while(number < 15);
 }
   return loveArray;
